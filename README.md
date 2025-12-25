@@ -21,7 +21,7 @@ Adımlar
 
 Projeyi klonlayın:
 
-bashgit clone https://github.com/kullaniciadi/turkce-kod-uretici.git
+bashgit clone https://github.com/mertuncu/turkce-kod-uretici.git
 cd turkce-kod-uretici
 
 Gerekli paketleri yükleyin:
