@@ -83,8 +83,7 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 Mert Uncu
 
 Üniversite: İskenderun Teknik Üniversitesi 
-Ders: Mühendislikte Bilgisayar Uygulamaları 1
-Yıl: 2025
+Ders: Mühendislikte Bilgisayar Uygulamaları 
 
 
 ⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
